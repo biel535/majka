@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/majka/static/css/main.07e94e4b.css",
+    "main.js": "/majka/static/js/main.a22e5c39.js",
+    "static/media/stockphoto.jpg": "/majka/static/media/stockphoto.df90067936200b975991.jpg",
+    "index.html": "/majka/index.html",
+    "main.07e94e4b.css.map": "/majka/static/css/main.07e94e4b.css.map",
+    "main.a22e5c39.js.map": "/majka/static/js/main.a22e5c39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07e94e4b.css",
+    "static/js/main.a22e5c39.js"
+  ]
+}
